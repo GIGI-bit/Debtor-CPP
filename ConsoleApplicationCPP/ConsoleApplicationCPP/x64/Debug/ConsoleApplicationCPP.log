@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\Functions.h(22,19): warning C4244: 'return': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\Functions.h(48,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\main.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\Functions.h(53): warning C4715: 'CheckFullName': not all control paths return a value
+  ConsoleApplicationCPP.vcxproj -> C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\x64\Debug\ConsoleApplicationCPP.exe
